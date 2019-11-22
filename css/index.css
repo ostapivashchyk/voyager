@@ -91,7 +91,7 @@ main #about-us p {
 main #actions figure {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     font-size: 25px;
 }
@@ -119,6 +119,7 @@ footer {
     text-align: center;
     color: white;
 }
+
 
 
 
